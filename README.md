@@ -1,4 +1,5 @@
 # pequenas-mentirosas - DockerLabs
+![foto](Gemini_Generated_Image_2ktakr2ktakr2kta.png)
 
 ## 📌 Información General
 
